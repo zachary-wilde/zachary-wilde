@@ -1,31 +1,35 @@
-### Zachary Wilde — Software developer
+### Zachary Wilde — AI Enablement & Technical Implementation Specialist
 
-I build TypeScript and Python software for workflow systems, data-heavy products,
-and reliable AI features. My strongest work combines business rules, defensive
-back-end boundaries, and tests that make the result explainable.
+I use AI-assisted development tools extensively to translate business workflows
+and product requirements into working prototypes, validation checks, tests,
+documentation, and clear handoffs. I focus on making requirements concrete,
+checking generated work against observable criteria, and communicating what is
+ready, limited, or still unverified.
 
-TypeScript · Next.js · React / React Native · Node.js · PostgreSQL · Prisma ·
-Supabase · Python
-
-**Selected work**
+**Implementation evidence**
 
 - **[Opportunity Scanner](https://github.com/zachary-wilde/opportunity-scanner)** —
-  website-audit tool with a private deployment, 43 deterministic rules, defensive
-  untrusted-URL fetching, and optional AI explanations over verified findings.
-  216 Vitest cases.
+  translated a repeatable website-review workflow into a privately deployed
+  prototype with 43 deterministic rules, bounded AI explanations, and 216
+  automated test cases. The application is not a public live demo.
 - **[Referral Tracker](https://github.com/zachary-wilde/referral-tracker)** —
-  referral and commission workflow with server-side partner isolation enforced
-  through Prisma query projection.
+  mapped referral, lead-stage, and commission requirements into a multi-role
+  workflow prototype with server-side partner isolation.
 - **[Daily Sixty](https://github.com/zachary-wilde/daily-sixty)** — mobile AI
-  product in internal testing, with schema-validated responses, quotas, and
-  deterministic fallbacks.
+  product prototype in internal testing, with schema validation, quotas, and
+  fallback behavior designed into the implementation.
 - **[LLM evaluation study](https://github.com/zachary-wilde/ai-eval-study)** —
-  compared a blind LLM judge with executable tests on 56 solutions; the judge
-  detected 7 of 10 seeded defects with no false alarms across 46 clean solutions
-  in the deliberately enriched study pool.
+  a small, constructed-sample exercise comparing blind model judgments with
+  executable checks; the repository documents its limited sample and study
+  caveats.
 
-Based in Hamilton, Ontario and seeking remote work. Authorized to work in Canada
-without sponsorship. Available immediately for full-time roles and open to
-part-time or contract work.
+Tools used across this work include TypeScript, Next.js, React / React Native,
+Node.js, PostgreSQL, Prisma, Supabase, Python, automated tests, and AI-assisted
+coding tools.
+
+Seeking remote-only roles in AI enablement and technical implementation, with
+SaaS implementation and product support as adjacent fits. Based in Hamilton,
+Ontario; authorized to work in Canada without sponsorship; available
+immediately for full-time work and open to part-time or contract engagements.
 
 📫 zackwildebusiness@gmail.com · 🌐 [Portfolio](https://zackwilde-dev.netlify.app)
