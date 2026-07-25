@@ -1,4 +1,4 @@
-### Zachary Wilde — AI Enablement & Technical Implementation Specialist
+### Zachary Wilde — Technical Implementation & AI Enablement Specialist
 
 I use AI-assisted development tools extensively to translate business workflows
 and product requirements into working prototypes, validation checks, tests,
