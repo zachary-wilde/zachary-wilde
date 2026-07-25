@@ -1,35 +1,37 @@
-### Zachary Wilde — Technical Implementation & AI Enablement Specialist
+### Zachary Wilde — Junior Web Developer
 
-I use AI-assisted development tools extensively to translate business workflows
-and product requirements into working prototypes, validation checks, tests,
-documentation, and clear handoffs. I focus on making requirements concrete,
-checking generated work against observable criteria, and communicating what is
-ready, limited, or still unverified.
+I build responsive business websites, Shopify storefronts, and tested web
+applications. My work covers requirements, visual implementation, responsive
+QA, technical SEO, deployment checks, and documented handoff.
 
-**Implementation evidence**
+I use AI coding assistants extensively as part of my development workflow. I
+remain responsible for defining the intended behaviour, reviewing the result,
+testing important paths, troubleshooting failures, and documenting what is
+complete or still limited.
 
+**Selected work**
+
+- **[Luxury Solutions](https://theluxurysolution.ca/)** — paid client website
+  delivered from requirements through launch, with responsive service and
+  location pages, quote paths, structured data, optimized images, and
+  automated SEO checks.
+- **[Kakebo](https://kakeboshop.com/)** — live Shopify storefront with 41
+  Liquid templates, reusable theme components, product and collection
+  layouts, responsive navigation, and a consistent visual system.
 - **[Opportunity Scanner](https://github.com/zachary-wilde/opportunity-scanner)** —
-  translated a repeatable website-review workflow into a privately deployed
-  prototype with 43 deterministic rules, bounded AI explanations, and 216
-  automated test cases. The application is not a public live demo.
-- **[Referral Tracker](https://github.com/zachary-wilde/referral-tracker)** —
-  mapped referral, lead-stage, and commission requirements into a multi-role
-  workflow prototype with server-side partner isolation.
-- **[Daily Sixty](https://github.com/zachary-wilde/daily-sixty)** — mobile AI
-  product prototype in internal testing, with schema validation, quotas, and
-  fallback behavior designed into the implementation.
-- **[LLM evaluation study](https://github.com/zachary-wilde/ai-eval-study)** —
-  a small, constructed-sample exercise comparing blind model judgments with
-  executable checks; the repository documents its limited sample and study
-  caveats.
+  Next.js and TypeScript website-audit application with 43 deterministic
+  checks, safe URL handling, printable reports, and 216 automated tests.
+- **Super Robot Taisen Z Translation Toolkit** — Python tooling for extracting,
+  translating, validating, and rebuilding text in a closed PlayStation 2 game,
+  including custom compression, XOR decoding, fixed-size binary constraints,
+  and round-trip verification.
 
-Tools used across this work include TypeScript, Next.js, React / React Native,
-Node.js, PostgreSQL, Prisma, Supabase, Python, automated tests, and AI-assisted
-coding tools.
+Tools used across this work include HTML, CSS, JavaScript, Shopify Liquid,
+React, Next.js, TypeScript, Node.js, Python, PostgreSQL, Supabase, Netlify,
+GitHub, and automated testing.
 
-Seeking remote-only roles in AI enablement and technical implementation, with
-SaaS implementation and product support as adjacent fits. Based in Hamilton,
-Ontario; authorized to work in Canada without sponsorship; available
-immediately for full-time work and open to part-time or contract engagements.
+Seeking remote junior web-development, website-production, or Shopify
+employment in Canada. Available immediately for permanent, fixed-term,
+temporary, or contract roles.
 
 📫 zackwildebusiness@gmail.com · 🌐 [Portfolio](https://zackwilde-dev.netlify.app)
