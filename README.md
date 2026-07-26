@@ -1,37 +1,40 @@
-### Zachary Wilde — Junior Web Developer
+### Zachary Wilde — Product Support & Technical Implementation
 
-I build responsive business websites, Shopify storefronts, and tested web
-applications. My work covers requirements, visual implementation, responsive
-QA, technical SEO, deployment checks, and documented handoff.
+I bring customer-facing experience and hands-on technical project work to
+SaaS product support, technical support, implementation, and onboarding. My
+work covers issue reproduction, user acceptance testing, workflow validation,
+documentation, troubleshooting, and clear handoff.
 
-I use AI coding assistants extensively as part of my development workflow. I
-remain responsible for defining the intended behaviour, reviewing the result,
-testing important paths, troubleshooting failures, and documenting what is
-complete or still limited.
+I use AI coding assistants extensively when prototyping or reviewing technical
+artifacts. I remain responsible for defining expected behaviour, testing
+important paths, investigating failures, documenting limitations, and
+explaining the result clearly.
 
-**Selected work**
+**Support and implementation evidence**
 
-- **[Luxury Solutions](https://theluxurysolution.ca/)** — paid client website
-  delivered from requirements through launch, with responsive service and
-  location pages, quote paths, structured data, optimized images, and
-  automated SEO checks.
-- **[Kakebo](https://kakeboshop.com/)** — live Shopify storefront with 41
-  Liquid templates, reusable theme components, product and collection
-  layouts, responsive navigation, and a consistent visual system.
 - **[Opportunity Scanner](https://github.com/zachary-wilde/opportunity-scanner)** —
-  Next.js and TypeScript website-audit application with 43 deterministic
-  checks, safe URL handling, printable reports, and 216 automated tests.
-- **Super Robot Taisen Z Translation Toolkit** — Python tooling for extracting,
-  translating, validating, and rebuilding text in a closed PlayStation 2 game,
-  including custom compression, XOR decoding, fixed-size binary constraints,
-  and round-trip verification.
+  translated a URL-to-report workflow into acceptance criteria for 43
+  deterministic checks; verified findings, unsafe-input handling, error paths,
+  fallback behaviour, and reports with 216 automated tests and an end-to-end
+  flow.
+- **[Referral Tracker](https://github.com/zachary-wilde/referral-tracker)** —
+  mapped partner, lead, commission, and payout workflows; documented expected
+  behaviour and verified public-form, API-key, role-isolation, and lifecycle
+  scenarios with automated tests.
+- **[Luxury Solutions](https://theluxurysolution.ca/)** — paid client delivery
+  from requirements through launch, including information architecture, quote
+  paths, responsive QA, structured data, deployment checks, and documented
+  handoff.
+- **[Super Robot Taisen Z Translation Tools](https://github.com/zachary-wilde/srw-z-translation-tools)** —
+  documented and tested a reversible workflow for extracting, validating, and
+  rebuilding text under unfamiliar binary-format constraints.
 
-Tools used across this work include HTML, CSS, JavaScript, Shopify Liquid,
-React, Next.js, TypeScript, Node.js, Python, PostgreSQL, Supabase, Netlify,
-GitHub, and automated testing.
+Technical context includes web applications, REST APIs, HTML/CSS/JavaScript,
+React, Next.js, TypeScript, Node.js, Python, PostgreSQL, GitHub, Netlify, and
+automated testing.
 
-Seeking remote junior web-development, website-production, or Shopify
-employment in Canada. Available immediately for permanent, fixed-term,
-temporary, or contract roles.
+Seeking remote Product Support, Technical Support, SaaS Implementation, or
+Customer Onboarding employment in Canada. Available immediately for permanent,
+fixed-term, temporary, or contract roles.
 
 📫 zackwildebusiness@gmail.com · 🌐 [Portfolio](https://zackwilde-dev.netlify.app)
